@@ -8,7 +8,7 @@ const education = [
     degree: "B.Tech – Computer Science (Data Science)",
     institution: "Malla Reddy Engineering College, Hyderabad",
     period: "2024 – 2027",
-    grade: "CGPA: 8.78",
+    grade: "CGPA: 8.49",
     current: true,
   },
   {
@@ -45,6 +45,18 @@ const certifications = [
     platform: "Forage",
     date: "Dec 2025",
     link: "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_mxaLpNNgw5Sob4aqp_1766408298682_completion_certificate.pdf",
+  },
+  {
+    name: "Trust and Security with Google Cloud",
+    platform: "Simplilearn",
+    date: "Mar 2026",
+    link: "https://simpli-web.app.link/e/BHoS0ji8d1b",
+  },
+  {
+    name: "Data Science & Analytics",
+    platform: "HP LIFE",
+    date: "Mar 2026",
+    link: "https://www.life-global.org/certificate/e82a89f0-c856-4e89-8306-1acd36334b1a",
   },
 ];
 
