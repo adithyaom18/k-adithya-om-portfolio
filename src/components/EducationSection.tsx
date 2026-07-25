@@ -8,7 +8,7 @@ const education = [
     degree: "B.Tech – Computer Science (Data Science)",
     institution: "Malla Reddy Engineering College, Hyderabad",
     period: "2024 – 2027",
-    grade: "CGPA: 8.49",
+    grade: "CGPA: 8.43",
     current: true,
   },
   {
