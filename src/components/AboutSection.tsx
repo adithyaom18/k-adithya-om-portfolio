@@ -7,7 +7,7 @@ const highlights = [
   {
     icon: GraduationCap,
     label: "CGPA",
-    value: "8.49",
+    value: "8.43",
     description: "Computer Science (Data Science)",
   },
   {
