@@ -61,6 +61,32 @@ const projects = [
   github: "https://github.com/adithyaom18/AI-Credit-Risk-Intelligence-Platform",
   demo: "https://ai-credit-risk-intelligence-platform.onrender.com",
 },
+{
+  title: "Nex Decision AI",
+  subtitle: "AI-Driven Decision Intelligence Platform",
+  description:
+    "An end-to-end Streamlit-based decision intelligence platform that analyzes user-uploaded datasets, automates machine learning workflows, generates predictions and forecasts, detects anomalies, and provides interactive business insights and executive reports.",
+  features: [
+    "Automated dataset profiling and interactive business analytics",
+    "AutoML pipeline for classification and regression model selection",
+    "Prediction, forecasting, anomaly detection, and model explainability",
+    "KPI dashboards, natural-language dataset queries, model history, and executive PDF reports",
+  ],
+  techStack: [
+    "Python",
+    "Streamlit",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Plotly",
+    "SQLite",
+    "Joblib",
+    "ReportLab",
+  ],
+  gradient: "from-accent to-neon-blue",
+  github: "https://github.com/adithyaom18/Nex-Decision-AI.git",
+  demo: "https://nex-decision-ai-18.streamlit.app/",
+},
 ];
 
 const ProjectsSection = () => {
